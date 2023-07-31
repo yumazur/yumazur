@@ -10,6 +10,8 @@ Analytics possesses the gift of persuasion and is highly devoid of subjective fe
 - 📫 How to reach me:
   e-mail: yumazur23@gmail.com Telegram: @yumazur
 
+- ### Skills and tools
+Python, Pandas, Seaborn, Matplotlib, Plotly, cohort analysis, unit economy, product metrics, A/B testing, testing of statistical hypotheses, SQL
 <!---
 yumazur/yumazur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
