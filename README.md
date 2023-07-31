@@ -8,7 +8,7 @@ I have always believed that before making any claims or assumptions confidently,
 Analytics possesses the gift of persuasion and is highly devoid of subjective feelings. Through it, one can constructively and productively discuss work outcomes, make plans, and forecast the future.
 
 - 📫 How to reach me:
-  e-mail: yumazur23@gmail.com, Telegram: @yumazur
+  e-mail: yumazur23@gmail.com Telegram: @yumazur
 
 <!---
 yumazur/yumazur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
