@@ -1,6 +1,6 @@
 - **👋 Hi, I’m Iuliia Mazur**
 
-**Data Analyst (Junior Level)**
+**Data Analyst**
 
 - Data analytics is a profession that I plan to pursue in great detail and with utmost dedication. I appreciate how analytics aids in making decisions based on numbers rather than opinions. I completed an 8-month data analytics training course, and now I am continuously honing my skills by reading books on analysis and statistics. 
 
