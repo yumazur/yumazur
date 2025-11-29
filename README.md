@@ -1,18 +1,29 @@
 - **👋 Hi, I’m Iuliia Mazur**
 
-**Data Analyst**
+I work as an independent market researcher delivering full-cycle analytical projects — from data collection and analysis to the final presentation-ready report. My work includes both desk research and on-site field studies when deeper, location-specific insights are required.
 
-- Data analytics is a profession that I plan to pursue in great detail and with utmost dedication. I appreciate how analytics aids in making decisions based on numbers rather than opinions. I completed an 7-month data analytics training course, and now I am continuously honing my skills by reading books on analysis and statistics. 
+**What I do**
 
-- I have always believed that before making any claims or assumptions confidently, it's essential to back them up with data and numbers. Analyzing the data, identifying patterns, establishing correlations, and visualizing the information in a way that is understandable to anyone are crucial steps in this process.
-Analytics possesses the gift of persuasion and is highly devoid of subjective feelings. Through it, one can constructively and productively discuss work outcomes, make plans, and forecast the future.
+• Conduct market and competitive research across F&B, hospitality, consumer goods, and digital services
+• Collect, structure, and analyze data; translate findings into clear, insight-driven narratives
+• Benchmark pricing, assortment, audience behavior, and product strategies
+• Evaluate social media presence and content performance for marketing teams
+• Produce polished, well-designed analytical reports suitable for leadership presentations, investor decks, and internal strategy work
 
-**Skills and tools:**
-Python, Pandas, Seaborn, Matplotlib, Plotly, cohort analysis, unit economy, product metrics, A/B testing, testing of statistical hypotheses, SQL
+**Typical project formats**
 
+• Market entry research
+• Competitive landscape mapping
+• Trend & audience insights
+• Pricing & assortment benchmarking
+• Research support for marketing and content strategies
+
+**Portfolio:** mazuranalytics.com
+
+If you're looking for structured, flexible research support for strategy or product decisions — feel free to connect.
 
 - 📫 How to reach me:
-  e-mail: yumazur23@gmail.com Telegram: @yumazur
+  e-mail: data@mazuranalytics.com 
 <img width="914" alt="YumazurDiplom" src="https://github.com/yumazur/yumazur/assets/140715941/326b9e4b-0914-453d-bf2c-743d554fb4b6">
 
 
